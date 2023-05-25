@@ -36,4 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Preview
 
-capsulatimerockeseat.netlify.app
+[igor - capsulatimerockeseat.netlify.app](https://capsulatimerockeseat.netlify.app/)
